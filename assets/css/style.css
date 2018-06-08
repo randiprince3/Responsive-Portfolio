@@ -287,7 +287,6 @@ input[type=submit] {
 @media screen and (max-width: 640px) {
   #masthead {
     position: static;
-    width: 100%;
   }
 
 
@@ -311,10 +310,10 @@ input[type=submit] {
     padding: 10px 0px 10px 0px;
   }
 
-  work {
+  .work {
     width: 100%;
     display: block;
-    float: left;
+
   }
 
   .work img {
